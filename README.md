@@ -15,4 +15,11 @@ The application should have a capability to show expenses for a single user as w
 When asked to show balances, the application should show balances of a user with all the users where there is a non-zero balance.
 The amount should be rounded off to two decimal places. Say if User1 paid 100 and the amount is split equally among 3 people. Assign 33.34 to the first person and 33.33 to the others.
 
-# Testing on Postman 
+# INSTRUCTION TO RUN CODE
+1 git clone and fetch
+2 install external dependency(npm i)
+3 set own nosql db of string and stores data into database
+4 testing on postman
+
+
+
